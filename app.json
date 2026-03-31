@@ -17,6 +17,10 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
+      "extra": {
+      "eas": {
+        "projectId": "f35ffe2e-d16f-4451-970f-262d2dcab2d9"
+      }
       "predictiveBackGestureEnabled": false,
       "package": "com.sarasimi.MyNotesApp"
     },
