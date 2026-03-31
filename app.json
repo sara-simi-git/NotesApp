@@ -23,7 +23,7 @@
         "projectId": "f35ffe2e-d16f-4451-970f-262d2dcab2d9"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.sarasimi.MyNotesApp"
+      "package": "com.sarasimi.NotesApp"
     },
     "web": {
       "output": "static",
