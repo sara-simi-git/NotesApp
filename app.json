@@ -11,6 +11,7 @@
       "icon": "./assets/expo.icon"
     },
     "android": {
+      "package": "com.sarasimi.NotesApp",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -22,8 +23,7 @@
       "eas": {
         "projectId": "f35ffe2e-d16f-4451-970f-262d2dcab2d9"
       },
-      "predictiveBackGestureEnabled": false,
-      "package": "com.sarasimi.NotesApp"
+      "predictiveBackGestureEnabled": false    
     },
     "web": {
       "output": "static",
